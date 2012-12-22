@@ -5,6 +5,6 @@ import "package:droneOn/multiply.dart";
 
 void main() {
   test("multiply", () {
-    expect(multiply(3, 4), equals(12));
+    expect(multiply(3, 4), equals(2));
   });
 }
